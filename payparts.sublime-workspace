@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"co",
+				"colspan	Attr"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"Des",
+				"DescriptionRu"
+			],
+			[
+				"data",
+				"data_shipping"
+			],
+			[
+				"setR",
+				"setRecipientId($recipient['data"
+			],
+			[
+				"Re",
+				"Recipient"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"Nova",
+				"NovaPoshta"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"pay",
+				"payment_method"
+			],
+			[
+				"rs",
+				"response"
+			],
+			[
+				"city",
+				"city_id"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"getWa",
+				"getWarehouseDescription"
+			],
+			[
+				"getCi",
+				"getCityDescription"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"is",
+				"isNumeric"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"д",
+				"доставки"
+			],
+			[
+				"От",
+				"Отправитель"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"Comm",
+				"CommonModel"
+			],
+			[
+				"url",
+				"url_npWarehouse"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"от",
+				"отправки"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"chec",
+				"checkout"
+			],
+			[
+				"tota",
+				"totals"
+			],
+			[
+				"shipping_",
+				"shipping_address"
+			],
+			[
+				"cart",
+				"cart_total"
+			],
+			[
+				"contry",
+				"country_id"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"call",
+				"callme_popup"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"cate",
+				"categories_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"ty",
+				"type	Attr"
+			],
+			[
+				"ко",
+				"количество"
+			],
+			[
+				"ск",
+				"скидку"
+			],
+			[
+				"i",
+				"id	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 381.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: COOKIE['…']"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/repositories/oc-payment-payparts"
+	],
+	"file_history":
+	[
+		"/E/OpenServer/domains/5minut.dev/catalog/view/theme/aquacart/template/common/header.tpl",
+		"/E/OpenServer/domains/5minut.dev/catalog/view/javascript/common.js",
+		"/E/OpenServer/domains/5minut.dev/catalog/view/javascript/crossdomain.php",
+		"/E/OpenServer/domains/5minutshop.dev/catalog/controller/product/product.php",
+		"/E/OpenServer/domains/5minutshop.dev/catalog/controller/module/popupcart.php",
+		"/E/OpenServer/domains/5minutshop.dev/catalog/controller/common/header.php",
+		"/E/OpenServer/domains/5minut.dev/catalog/controller/common/header.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/payparts.tpl",
+		"/E/OpenServer/domains/expofree.dev/admin/config.php",
+		"/E/OpenServer/domains/expofree.dev/config.php",
+		"/C/Users/Serega/Downloads/payparts (1) (1)/payment.php",
+		"/C/Users/Serega/Downloads/payparts (1) (1)/catalog/view/theme/default/template/payment/payparts.tpl",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/popupcart.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/common.js",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/da_journal2.ocmod.xml",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/cart.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/journal.js",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/vq2-catalog_controller_checkout_cart.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/da_journal2_checkout.ocmod.xml",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/journal2_utils.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/vqmod_opencart.xml",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/startup.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/da_journal2_image_cdn.xml",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/url.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/controller.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/da_journal2_notification_image.xml",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/da_journal2_product_gallery_first_image_fix.xml",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/checkout.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/cart 2.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/popupcart.tpl",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-1/popup.tpl",
+		"/E/OpenServer/domains/expofree.dev/system/database/mysqli.php",
+		"/C/Users/Serega/AppData/Local/Temp/fz3temp-2/config.php",
+		"/E/OpenServer/domains/expofree.dev/admin/controller/shipping/novaposhta.php",
+		"/E/OpenServer/domains/expofree.dev/system/library/NovaPoshtaApi2.php",
+		"/E/OpenServer/domains/expofree.dev/admin/model/tool/novaposhta.php",
+		"/E/OpenServer/domains/expofree.dev/admin/language/russian/shipping/novaposhta.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/url.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/header.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/checkout.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/privat24 2.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/cod 2.tpl",
+		"/C/OpenServer/domains/expofree.dev/catalog/controller/payment/privat24.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/privat24 2.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/privat24.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/privat24.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/checkout.tpl",
+		"/C/Users/SeregAP/Google Drive/My Sites/Opencart/Modules/Privat24_v1/catalog/view/theme/default/template/payment/privat24.tpl",
+		"/C/OpenServer/domains/expofree.dev/catalog/controller/payment/cod.php",
+		"/C/OpenServer/domains/expofree.dev/catalog/view/theme/lexus_mobile/template/payment/privat24.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/cod.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/russian.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/checkout 2.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/stylesheet.css",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/cart 2.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/cart_total.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/callme.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/cart.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/callme.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/success.php",
+		"/C/OpenServer/domains/expofree.dev/admin/view/template/shipping/novaposhta.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/shipping_address.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/order_info.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/novaposhta.php",
+		"/C/OpenServer/domains/expofree.dev/catalog/controller/checkout/success.php",
+		"/C/OpenServer/domains/expofree.dev/admin/controller/sale/order.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/totals.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/cart.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/shipping_method.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/payment_method.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/guest.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/order.php",
+		"/C/OpenServer/domains/expofree.dev/admin/view/template/sale/order_info.tpl",
+		"/C/OpenServer/domains/expofree.dev/catalog/view/theme/lexus_mobile/template/checkout/checkout.tpl",
+		"/C/OpenServer/domains/5minut.dev/catalog/controller/checkout/confirm.php",
+		"/C/OpenServer/domains/expofree.dev/system/engine/controller.php",
+		"/C/OpenServer/domains/5minut.dev/system/engine/controller.php",
+		"/C/OpenServer/domains/5minut.dev/catalog/controller/checkout/checkout.php",
+		"/C/OpenServer/domains/5minut.dev/catalog/controller/checkout/payment_method.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/home.php",
+		"/C/OpenServer/domains/5minut.dev/catalog/controller/module/callme.php",
+		"/C/OpenServer/domains/5minut.dev/catalog/view/theme/aquacart/template/module/callme.tpl",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/confirm.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/error_log",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/phproot.php",
+		"/C/OpenServer/domains/expofree.dev/system/library/document.php",
+		"/C/OpenServer/domains/5minut.dev/catalog/view/theme/default/template/checkout/checkout.tpl",
+		"/C/OpenServer/domains/expofree.dev/catalog/controller/checkout/shipping_method.php",
+		"/C/OpenServer/domains/expofree.dev/catalog/model/shipping/novaposhta.php",
+		"/C/OpenServer/domains/expofree.dev/catalog/controller/checkout/shipping_address.php",
+		"/C/OpenServer/domains/expofree.dev/np.php",
+		"/C/OpenServer/domains/expofree.dev/system/cache/cache.novaposhta.getWarehouseByIdac29139148f6ca59898482df1d4855c8.1416859532",
+		"/C/OpenServer/domains/expofree.dev/catalog/view/theme/lexus_mobile/template/checkout/shipping_address.tpl",
+		"/C/OpenServer/domains/expofree.dev/system/cache/cache.novaposhta.getCounterparties0fb2f2e465024b4ef79fe27989c2bc5d.1416781624",
+		"/C/OpenServer/domains/expofree.dev/system/cache/cache.novaposhta.getCounterpartyContactPersonsbc05599d98e106980346cf3a78a097a0.1416739061",
+		"/C/OpenServer/domains/expofree.dev/system/cache/cache.novaposhta.getCounterparties713d1af1f9cf843f77f2f65807115efe.1416730790",
+		"/C/OpenServer/domains/expofree.dev/system/cache/cache.novaposhta.getWarehouserefebc0eda9-93ec-11e3-b441-0050568002cf.1416730799",
+		"/C/OpenServer/domains/expofree.dev/system/library/novaposhta_api_2.0.php",
+		"/C/OpenServer/domains/expofree.dev/system/cache/cache.novaposhta.getCities.1416729658",
+		"/C/OpenServer/domains/expofree.dev/system/cache/cache.novaposhta.getCities.1416609199",
+		"/C/OpenServer/domains/expofree.dev/system/library/cache.php",
+		"/C/OpenServer/domains/expofree.dev/system/engine/model.php",
+		"/C/OpenServer/domains/expofree.dev/system/library/config.php",
+		"/C/OpenServer/domains/expofree.dev/system/engine/action.php",
+		"/C/OpenServer/domains/expofree.dev/system/engine/registry.php",
+		"/C/OpenServer/domains/expofree.dev/system/library/cache_2.php",
+		"/C/OpenServer/domains/expofree.dev/system/library/cart.php",
+		"/C/OpenServer/domains/expofree.dev/system/library/user.php",
+		"/C/OpenServer/domains/expofree.dev/system/library/tax.php",
+		"/C/OpenServer/domains/expofree.dev/system/library/currency.php",
+		"/C/OpenServer/domains/expofree.dev/admin/model/catalog/review.php",
+		"/C/OpenServer/domains/expofree.dev/admin/model/catalog/product.php",
+		"/C/OpenServer/domains/expofree.dev/system/library/log.php",
+		"/C/OpenServer/domains/expofree.dev/admin/model/sale/order.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/dev.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/env.php",
+		"/C/Users/SeregAP/Downloads/vagza-20141113-083833.sql",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/vagza.com.db",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/prod.php",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/nginx.conf",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/my.cnf",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/apache2 2.conf",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/robots.txt",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/error.log",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/apache2.conf",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/php.ini",
+		"/C/Users/SeregAP/AppData/Local/Temp/fz3temp-1/mpm_prefork.load"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addToCa",
+			"checkout/cart.php",
+			"Journal2Utils",
+			"success",
+			"color",
+			"confirm-content",
+			"checkout-product",
+			"quantity",
+			"text_wait",
+			"totals",
+			"shipping_address",
+			"shipping_method",
+			"paym",
+			"response",
+			"city",
+			"request",
+			"novaposhta_sender",
+			"checkInternetDocumentParams",
+			"execute",
+			"RecipientsPhone",
+			"checkInternetDocumentParams",
+			"recipientId",
+			"save(",
+			"Recipient",
+			"npApi",
+			"checkInternetDocumentCounterparty",
+			"ServiceType",
+			"Phone",
+			"model",
+			"counterparty",
+			"CounterpartyModel",
+			"getCity",
+			"getCounterparties",
+			"CounterpartyModel",
+			"getWarehouses",
+			"wri",
+			"getCities",
+			"getCounterpartyContactPersons",
+			"getContactPhone",
+			"sender",
+			"getCounterpartyContactPersons",
+			"apc",
+			"skip-",
+			"default",
+			"default-storage-engine",
+			"prefork",
+			"IfModule mpm_prefork_module",
+			"totals",
+			"shipping_city_id",
+			"shipping_warehouse_id",
+			"AddressModel",
+			"$url",
+			"city",
+			"AddressModel",
+			"model_sale_order",
+			"shipping_address",
+			"first",
+			"waren",
+			"type",
+			"api_key",
+			"CounterpartyModel",
+			"log",
+			"getCounterparties",
+			"CounterpartyModel",
+			"delete_order",
+			"$this->session->data['order_id']",
+			"addOrder",
+			"$this->session->data['order_id']",
+			"writeReview",
+			"form",
+			"view",
+			"$customer_group_id",
+			"arenhouses",
+			"arenhous",
+			"$xml",
+			"privat24_order_status_id",
+			"getPrivat24Status",
+			"privat24_sort_order",
+			"shoputils_cumulative_discounts",
+			"discounts_module",
+			"shoputils_cumulative_discounts_",
+			"order",
+			";\n",
+			"validateShipping",
+			"index",
+			"layerSkinPath",
+			"content_b",
+			"latest",
+			"layerSkinPath",
+			"service_module",
+			"discount_count_discount",
+			"remove",
+			"link",
+			"make",
+			"token"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"arehous",
+			"$json",
+			"cumulative_discounts",
+			"discounts_info_module",
+			"discounts_info",
+			"callme_popup",
+			"discounts_module",
+			"discount_count_discounts"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "payparts.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
